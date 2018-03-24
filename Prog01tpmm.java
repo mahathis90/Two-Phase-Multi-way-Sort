@@ -1,10 +1,6 @@
 /* 
  *  @file  : Prog01tpmm.java
  *  @brief : To create a sorted list in HD(used for search - made easy) , when the input is an unsorted list.
- *  @ remarks
- *             Course       :  Advanced Database Systems CS 6543
- *             Due Date     :  2/28/2018
- *             Instructor   :  Dr.Hung-Chi Su
  *
  *             
  *  @author       : Mahathi Sudhana
@@ -15,8 +11,7 @@
 	NOTE : THE INPUT FILE USED IN THE PROGRAM IS AT THE END OF TEH FILE COMMENTED. AM NOT ATTACHING A SEPEARTE INPUT FILE FOR THIS. 
 	IF YOU WANT TO TEST WITH DIFFERENT DATA YOU HAVE TO CHNAGE THE INPUT FILE MANUALLY.
 	
-	IF AM CHNAGING IT TO PDF FILE MY INTENDATION IS GOING WRONG IF I COPY THE CODE AGAIN INTO A FILE , WHERE I CAN EXECUTE SO AM LEAVING THE .JAVA FILE AS IT IS.
-*/ 
+	
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
